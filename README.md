@@ -1,6 +1,6 @@
 # DBAFZALKHAN
 
-RUN CODE THEN SP<br>
+AFZAL STATUS THEN SP<br>
 Author : AFZAL KHAN <br>
 project : DBUPdate
 
